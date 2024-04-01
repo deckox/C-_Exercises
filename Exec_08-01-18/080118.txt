@@ -1,0 +1,48 @@
+1)O que é um algoritimo?
+
+é uma sequencia de passos para realizar uma tarefa final que o computador ira executar, sendo possivel executar de formas diferentes.
+
+2) Qual a utilidade da Herança em c#?.
+
+Reaproveitar(herdar) comportamento, propriedade, atributods e metodos de uma classe podendo assim estender sua funcionalidade
+
+
+3) Qual a utilidade da biblioteca system.Linq ?
+reduçao de codigo, poucas linhas, criar filtros, similar ao sql, em resumo mais facilidade utilizando pouco codigo.
+
+
+4) Crie uma aplicação que ira criptografar a frase informada pleo usuario seguinto as seguintes regras:
+	- Trocar as letras a por %
+	- Trocar as letras e por &
+	- Trocar as letras i por $
+	- Trocar as letras o por +
+	- Trocar as letras u por @
+	- Trocar os espações por ?
+	- Adicionar # entre as letras a cada 5 caracteres
+	- Ao final exibir o resultado de tras para frente
+	
+	ex: 
+		Usuário informa: Texto de exemplo da criptografia
+		T&xt+#?d&?&#x&mpl#+?d%?#cr$pt#+gr%f#$% (previa do resultado antes de inverter)
+		Resultado que deve ser apresentado: %$#f%rg+#tp$rc#?%d?+#lpm&x#&?&d?#+tx&T
+		
+5) Crie uma aplicação que ira decriptografar a mensagem do exercicio anterior.
+
+6) Crie uma aplicação onde o usuario ira informar em um campo um nome, ao cliar no botao adicionar o nome deve ser salvo em memoria e o campo limpo para receber o proximo nome.
+	-Ao apertar em buscar a aplicação deve exibir todos os resultados
+	-A pesquisa deve ser feita usando Linq
+
+7) Qual a diferença entre o algoritimo de busca Sequencial e busca binaria? Qual é mais eficiente? 
+
+busca sequencial como o proprio nome diz, busca em sequencia por sequencia ate chegar no resultado esperado.
+busca binaria quebra a busca em 3 partes inicio, meio e fim. No qual se o resultado que precisa estiver por exemplo
+no fim ele quebra as partes e começa do meio eliminando assim a necessidade de percorrer por todos.
+Devido a rapidez do processo de busca binaria ela seria mais eficiente, ja que a sequencial percorrer um por um.  
+	
+8) Modifique o programa anterior adicionando um novo botão "Pesquisar Sequencial" para fazer a mesma busca utilizando um algoritimo de busca sequencial(percorrendo a lista com um loop).
+
+9) Modifique o programa anterior adicionando um novo botão "Pesquisar Binaria" para fazer a mesma busca utilizando um algoritimo de busca binaria (pesquisar a respeito).
+
+10) Modifique o programa anterior, para que nos 3 botões a busca não seja feita pelo texto exato e sim por parte do texto.
+	-Ex: busca por "ae"
+		Retorna Rafael, Raphael, Michael, ...

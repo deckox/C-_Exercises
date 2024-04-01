@@ -1,0 +1,10 @@
+C:\Users\akimura\Dropbox\Exec-18-12\18-12\4\bin\Debug\4.exe.config
+C:\Users\akimura\Dropbox\Exec-18-12\18-12\4\bin\Debug\4.exe
+C:\Users\akimura\Dropbox\Exec-18-12\18-12\4\bin\Debug\4.pdb
+C:\Users\akimura\Dropbox\Exec-18-12\18-12\4\obj\Debug\5.csprojResolveAssemblyReference.cache
+C:\Users\akimura\Dropbox\Exec-18-12\18-12\4\obj\Debug\_4.Form1.resources
+C:\Users\akimura\Dropbox\Exec-18-12\18-12\4\obj\Debug\_4.Properties.Resources.resources
+C:\Users\akimura\Dropbox\Exec-18-12\18-12\4\obj\Debug\5.csproj.GenerateResource.Cache
+C:\Users\akimura\Dropbox\Exec-18-12\18-12\4\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\akimura\Dropbox\Exec-18-12\18-12\4\obj\Debug\4.exe
+C:\Users\akimura\Dropbox\Exec-18-12\18-12\4\obj\Debug\4.pdb

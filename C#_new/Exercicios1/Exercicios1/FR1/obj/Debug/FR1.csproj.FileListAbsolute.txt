@@ -1,0 +1,2 @@
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\FR1\obj\Debug\FR1.csprojAssemblyReference.cache
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\FR1\obj\Debug\FR1.csproj.CoreCompileInputs.cache

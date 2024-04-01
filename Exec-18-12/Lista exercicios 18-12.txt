@@ -1,0 +1,72 @@
+ok 1) Crie uma aplicação que leia 10 numeros do usuario e informar qual o menor, o maior e a media
+		ex: Usuario informa 1,2,3,4,5,6,7,8,9,10
+		resultado esperado :
+			Menor numero: 1
+			Maior Numero: 10
+			Media: 5  
+		obs: a media é calculada pela soma de todos os numeros dividido pela quantidade (no caso 10).
+		
+		
+ok 2) Crie um programa que ira printar a tabuada de todos os numeros de 1 a 10, utilizar um for/while dentr do outro.
+	Ex:
+		1x1 = 1
+		1x2 = 2
+		...
+		1x10 =10
+		
+		2x1 = 2
+		2x2 = 2
+		...
+		2x10 = 20
+		
+		...
+		
+		10x1 = 10
+		...
+		10x10 = 100
+		
+ok 3) Qual a utilidade das seguintes extensoes de arquivo:
+	- .cs = onde fica as classes, A utilidade de classe serve para reaproveitar codigos afim de agrupar coisas semelhantes 
+	- .sln =  onde fica as soluçoes do projeto
+	- .csproj =  e o projeto criado para progamar do c# 
+	
+ok 4) Crie uma aplicação que ira Ler um numero do usuário e apresentar a somatoria do mesmo utilizando o comando de laço WHILE.		
+
+ok 5) Crie uma aplicação que ira Ler um numero do usuário e apresentar a somatoria do mesmo utilizando o comando de laço FOR.
+	ex: usuario informa 5
+	aplicação apresenta:
+		5 + 4 + 3 + 2 + 1 = 15
+		
+6) Crie uma aplicação console application que deve ler numeros informados pelo usuário até que o mesmo informe um dos seguintes comandos:
+	- somar, multiplicar, media, maximo, minimo, sair
+	- O programa deve efetuar a operação informada nos numeros fornecidos
+	- caso o usuario informe algum valor que nao seja um numero ou um dos comandos a aplciação deve informar o seguinte texto, "valor invalido", e pedir o proximo numero
+	- apos exibir o resultado solicitado pelo usuario a aplicação deve zerar todos os dados armazenados e voltar a pedir os numeros para uma nova operação assim como ao inicio
+	- se o usuario informar o comando sair a aplicacao deve ser fechada
+	
+	
+ok 7) Qual a diferença entre utilizar o var para declarar uma variavel ou não, quando devo usar?
+	var numero1 = 10;
+	int numero1 = 10;
+	
+	"var" assume o tipo de acordo com o primeiro valor atribuído, o c# utiliza as expressoes apenas quando o codigo for executado.
+	Legibilidade do codigo, fica mais facil de entender caso precise de manutençao. usar quando o tipo da variavel é complicada para entender simplificando sendo assim.
+	no caso de ficar claro pelo contexto é melhor usar o int, string e etc.
+
+
+8) Qual a diferença entre as seguintes variaveis declaradas?
+	int Numero1; = não permite que a variavel esteja com o valor null
+	int? Numero1; = permite que a variavel esteja com o valor null
+	int? numero = null;
+	Nullable<int> numero = null;
+	
+	
+9) O que é e qual a utilidade de named parameters, de exemplos de uso?
+Os parâmetros nomeados nos permitem nomear os parâmetros ao chamar um método. 
+Podemos definir os parâmetros em uma ordem diferente da declarada no método. 
+É importante para definir os parâmetros em casos onde existam muitos parâmetros opcionais de tipos iguais.
+
+
+
+10) montar um twitter, usuario informa uma mensagem de ate 50 caracteres e ele posta na timeline
+(exibir embaixo do campo o contador de caracteres usados e o total restante)

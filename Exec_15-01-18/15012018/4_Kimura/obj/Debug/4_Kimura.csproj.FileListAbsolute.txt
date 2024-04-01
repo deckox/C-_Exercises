@@ -1,0 +1,10 @@
+C:\Users\deckox\Dropbox\Exec_15-01-18\15012018\4_Kimura\obj\Debug\4_Kimura.csprojResolveAssemblyReference.cache
+C:\Users\deckox\Dropbox\Exec_15-01-18\15012018\4_Kimura\obj\Debug\_15012018.Form1.resources
+C:\Users\deckox\Dropbox\Exec_15-01-18\15012018\4_Kimura\obj\Debug\_4_Kimura.Properties.Resources.resources
+C:\Users\deckox\Dropbox\Exec_15-01-18\15012018\4_Kimura\obj\Debug\4_Kimura.csproj.GenerateResource.Cache
+C:\Users\deckox\Dropbox\Exec_15-01-18\15012018\4_Kimura\obj\Debug\4_Kimura.csproj.CoreCompileInputs.cache
+C:\Users\deckox\Dropbox\Exec_15-01-18\15012018\4_Kimura\bin\Debug\4_Kimura.exe.config
+C:\Users\deckox\Dropbox\Exec_15-01-18\15012018\4_Kimura\bin\Debug\4_Kimura.exe
+C:\Users\deckox\Dropbox\Exec_15-01-18\15012018\4_Kimura\bin\Debug\4_Kimura.pdb
+C:\Users\deckox\Dropbox\Exec_15-01-18\15012018\4_Kimura\obj\Debug\4_Kimura.exe
+C:\Users\deckox\Dropbox\Exec_15-01-18\15012018\4_Kimura\obj\Debug\4_Kimura.pdb

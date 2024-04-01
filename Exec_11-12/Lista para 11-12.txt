@@ -1,0 +1,39 @@
+1) O que é e qual a utilidade de uma sobrecarga de metodo? ok
+
+Metodos sobrecarregados sao metodos que possuem o mesmo nome e sao declarados no mesmo escopo.
+A utilidade da sobrecarga quando efetua uma operacao de tipos diferentes ou quando as informacoes variam. 
+ele sabe lidar com varias situacoes distintas
+
+2) Crie uma aplicação onde é utilizado sobrecarga de metodo. Ok
+
+3) O que é uma sobrecarga de operadores, e qual sua utilidade ? ok
+
+A sobrecarga (Overload)  é a habilidade de poder definir diversas propriedades, 
+métodos ou procedimentos em uma classe com o mesmo nome, mas parâmetros diferentes.
+Redefine a função do operador.
+Pode se utilizar para sobrecarregar por exemplo o operador de "+" para fazer calculo baseado em mais de uma situacao.
+
+4) Crie uma aplicação que utilize sobrecarga de operadores
+
+5) Criar uma aplica com 5 botões e um campo de texto que gere um log da utilização. ok
+	-Campo de texto
+	-Botões: Operação A, Operação B, Operação C, Operação D,Operação E.
+	-A aplicacao deve gerar um arquivo de log chamado "operacoes.log"
+	-Apos o clique em cada botão deve ser inserido uma nova linha no arquivo de log no seguinte formato
+		Data e Hora que o botão foi precionado + "-" + Nome da Operação + ":" + Texto informado pelo usuario + ";"
+		ex:
+			11/06/2017 14:31:27 - Operação C : teste123;
+			11/06/2017 14:33:12 - Operação B : abcde;
+			11/06/2017 14:35:00 - Operação E : blablablabla;
+			
+6) Crie uma aplicação console application que deve ler 10 nomes e apresenta-los em ordem alfabetica sem utilizar order by.
+7) Crie uma aplicação que irá ler uma frase do usuario e inserir . entre as letras a cada 3 caracteres. 
+			
+8) Crie uma aplicação que irá ler uma frase do usuario e escrever a mesma de tras para frente. OK
+	ex: teste da frase
+	resultado: esarf ad etset			
+	
+9) Crie uma aplicação que irá ler uma frase do usuario e apresentar a mesma sem nenhum espaço: OK
+
+10) Crie uma aplicação que leia dois números nas variáveis Val1 e Val2, 
+calcule sua média na variável Media e imprima seu valor. OK

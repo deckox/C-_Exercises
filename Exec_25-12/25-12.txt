@@ -1,0 +1,51 @@
+ok 1) Qual a utilidade do operador "??" ?, de um exemplo de uso.
+
+Substitui por exemplo um if apenas em uma linha caso a variavel for nula.
+x ?? y – retornará x se  não for null; caso contrário, retornará y..
+
+
+
+ok 2) Crie uma aplicação que irá Ler 3 numeros e informar qual é o maior utilizando If Ternario.
+
+ok 3) Oque é uma função recursiva?
+Função recursiva chama ela mesma varias vezes executando uma função entrando em looping.
+
+ok 4) Oque é e qual a utilidade de um Enum ?
+é um tipo de dados	com valores limitados a um conjunto de nomes simbolicos, 
+a utilidade dele é para quando criar estruturas que serão pouco alteradas ao longo do desenvolvimento do projeto,
+caso precisar acrescentar ou excluir é so ir no enum e fazer a ação.
+
+ok 5) Crie uma aplicação que utilize Enum.
+
+
+ok 6) Qual a diferença entre as clausulas if abaixo, oque irá mudar no comportamento de cada uma delas?
+	if( nuemro1 == 2 && numero2 == 3 )
+	{}
+	
+	ele irá comparar se a condição de numero1 é igual a 2 "E" numero2 igual a 3
+	
+	if( nuemro1 == 2 & numero2 == 3 )
+	{}
+	O & é o operador de bits and, então ele compara cada bit do dado verificado e resulta em 1 sempre que o 
+	bit correspondente nos dois operandos são 1, afinal o and só é verdadeiro quando ambos são verdadeiros, 
+	caso contrário o resultado será 0, e assim manipula-se bits.
+	
+ok 7) Crie uma aplicação que ira ler um numero e o programa devera exibir o seu fatorial, ou seja a soma da multiplicação de um número (n) vezes, onde n é o número lido.
+	ex: usuario informa 5
+	resultado esperado :
+		5! =  120
+		
+ok 8) Crie um programa que recebe um numero e calcula o somatorio do mesmo usando uma função recursiva
+
+9) Crie uma aplicação que irá ler um numero informado pelo usuario e inforar todos os numeros pares no 
+   intervalo de 1 até o numero informado e depois os numeros impares.
+   
+	ex: 10
+	Resultado:
+		Numeros pares:
+			2, 4, 6, 8, 10
+		Numeros impares:
+			1, 3, 5, 7, 9
+	
+ok 10) Crie uma aplicação que leia dois números inteiros (Int1 e Int2) e imprima o 
+    quociente e o resto da divisão inteira de Int1 por Int2.

@@ -1,0 +1,48 @@
+ok 1) Qual a diferença entre utilizar um Array de strings e uma Lista de strings? quando devo usar cada uma delas?
+Array de strings tem quantidade fixa e imutavel, diferente de uma lista de strings.
+
+Array de strings usar quando souber os dados fixos que nao irao variar, ja uma lista usa-se quando quer usar dados que nao variam e precisam ser acrescentados quando precisar
+
+2) Crie um programa que recebe um numero e calcula o seu fatorial do mesmo usando uma função recursiva
+
+
+ok 3) Crie um programa que recebe uma data e informa em qual dia da semana ela cai (em portugues).
+
+4) Qual a utilidade da Orientação a objetos
+Maior reaproveitamento de código: Componentes bem modularizados com funções bem definidas servindo a propósitos claros e delimitados (alta coesão) podem ser reaproveitados, 
+significando menos código (e conseqüentemente, menor custo de manutenção). A orientação a objetos trás vários recursos para produzir componentes independentes intercambiáveis  
+(encapsulamento, interfaces, etc), promovendo o baixo acoplamento.
+
+ok 5) Criar uma aplicação de calculadora semelhate a do windows,
+	-A interfacie deve conter somente um campo texto onde irá aparecer as operações e o resultado 
+	-A interfacie deve contar os seguintes botões: 0, 1, 2 ,3, 4, 5, 6, 7, 8, 9, /, *, -, +, = e CE
+	
+6) Adicionar log das operações na aplicação de calculadora criada anteriormente, o log so deve ser gerado ao clicar no botao "=" ou no "ce";
+	ex: usuario fez uma conta de adição, ao clicar no = deve ser gerado o seguinte log:
+		11/06/2017 14:35:00 - Operação Adição;
+	ex: usuario fez uma conta de adição, subtração e multiplicação, ao clicar no = deve ser gerado o seguinte log:
+		11/06/2017 14:35:00 - Operação Adição, Operação Subtração, Operação Multiplicação;
+	ex: usuario clicou em CE
+		11/06/2017 14:35:00 - Operação Limpar;
+		
+		
+ok 7) Crie uma aplicação que ira cadastrar produtos.
+	Deve conter os campos: Codigo, nome, categoria, quantidade e preço
+	Deve conter os seguintes botoes: Cadastrar, Limpar
+	
+	Ao clicar em limpar deve limpar todos os campos
+	Ao clicar em cadastrar deve salvar o produto em uma linha de um arquivo texto, com os dados separados por ;
+		ex: produtos.txt
+			001;Big Mac;lanche;100;1,50;
+			002;Coca-Cola;bebida;500;2,50;
+
+
+8) No programa anterior adicione um campo para busca  (campo texto para digitar o codigo do produto e um botao pesquisar)
+ok	Ao digitar o codigo a aplicação deve procurar no arquivo texto se o produto existe, se existir preencher os campos com os dados do mesmo
+	Se nao existir deve exibir mensagem dizendo que o produto nao existe
+
+
+9) No programa anterior cado o usuario tente cadastrar um produto com o codigo igual a um já cadastrado o mesmo deve ser atualizado para os novos dados fornecidos
+
+
+10) No programa anterior Adicionar o botao de excluir para remover do arquivo de texto o produto pesquisado.

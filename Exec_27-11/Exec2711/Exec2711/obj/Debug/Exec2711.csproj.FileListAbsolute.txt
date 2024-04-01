@@ -1,0 +1,10 @@
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\Exec2711\bin\Debug\Exec2711.exe.config
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\Exec2711\bin\Debug\Exec2711.exe
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\Exec2711\bin\Debug\Exec2711.pdb
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\Exec2711\obj\Debug\Exec2711.csprojResolveAssemblyReference.cache
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\Exec2711\obj\Debug\Exec2711.Form1.resources
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\Exec2711\obj\Debug\Exec2711.Properties.Resources.resources
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\Exec2711\obj\Debug\Exec2711.csproj.GenerateResource.Cache
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\Exec2711\obj\Debug\Exec2711.csproj.CoreCompileInputs.cache
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\Exec2711\obj\Debug\Exec2711.exe
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\Exec2711\obj\Debug\Exec2711.pdb

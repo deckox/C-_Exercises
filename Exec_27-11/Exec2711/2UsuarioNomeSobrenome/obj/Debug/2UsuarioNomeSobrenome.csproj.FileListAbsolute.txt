@@ -1,0 +1,10 @@
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\2UsuarioNomeSobrenome\bin\Debug\2UsuarioNomeSobrenome.exe.config
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\2UsuarioNomeSobrenome\bin\Debug\2UsuarioNomeSobrenome.exe
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\2UsuarioNomeSobrenome\bin\Debug\2UsuarioNomeSobrenome.pdb
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\2UsuarioNomeSobrenome\obj\Debug\_2UsuarioNomeSobrenome.Form1.resources
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\2UsuarioNomeSobrenome\obj\Debug\_2UsuarioNomeSobrenome.Properties.Resources.resources
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\2UsuarioNomeSobrenome\obj\Debug\2UsuarioNomeSobrenome.csproj.GenerateResource.Cache
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\2UsuarioNomeSobrenome\obj\Debug\2UsuarioNomeSobrenome.csproj.CoreCompileInputs.cache
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\2UsuarioNomeSobrenome\obj\Debug\2UsuarioNomeSobrenome.exe
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\2UsuarioNomeSobrenome\obj\Debug\2UsuarioNomeSobrenome.pdb
+C:\Users\deckox\Dropbox\Exec_27-11\Exec2711\2UsuarioNomeSobrenome\obj\Debug\2UsuarioNomeSobrenome.csprojResolveAssemblyReference.cache

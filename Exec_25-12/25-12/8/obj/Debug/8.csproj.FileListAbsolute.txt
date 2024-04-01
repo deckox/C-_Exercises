@@ -1,0 +1,6 @@
+C:\Users\deckox\Dropbox\Exec_25-12\25-12\8\bin\Debug\8.exe.config
+C:\Users\deckox\Dropbox\Exec_25-12\25-12\8\bin\Debug\8.exe
+C:\Users\deckox\Dropbox\Exec_25-12\25-12\8\bin\Debug\8.pdb
+C:\Users\deckox\Dropbox\Exec_25-12\25-12\8\obj\Debug\8.csproj.CoreCompileInputs.cache
+C:\Users\deckox\Dropbox\Exec_25-12\25-12\8\obj\Debug\8.exe
+C:\Users\deckox\Dropbox\Exec_25-12\25-12\8\obj\Debug\8.pdb

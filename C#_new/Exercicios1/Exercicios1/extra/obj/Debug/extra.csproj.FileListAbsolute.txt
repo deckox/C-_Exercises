@@ -1,0 +1,10 @@
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\extra\bin\Debug\extra.exe.config
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\extra\bin\Debug\extra.exe
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\extra\bin\Debug\extra.pdb
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\extra\obj\Debug\extra.csprojAssemblyReference.cache
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\extra\obj\Debug\extra.Form1.resources
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\extra\obj\Debug\extra.Properties.Resources.resources
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\extra\obj\Debug\extra.csproj.GenerateResource.cache
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\extra\obj\Debug\extra.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\extra\obj\Debug\extra.exe
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\extra\obj\Debug\extra.pdb

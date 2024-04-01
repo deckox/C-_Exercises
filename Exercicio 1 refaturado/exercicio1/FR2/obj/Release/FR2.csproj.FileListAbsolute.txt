@@ -1,0 +1,9 @@
+C:\Users\akimura\Dropbox\Exercicio 1 refaturado\exercicio1\FR2\bin\Release\FR2.exe.config
+C:\Users\akimura\Dropbox\Exercicio 1 refaturado\exercicio1\FR2\bin\Release\FR2.exe
+C:\Users\akimura\Dropbox\Exercicio 1 refaturado\exercicio1\FR2\bin\Release\FR2.pdb
+C:\Users\akimura\Dropbox\Exercicio 1 refaturado\exercicio1\FR2\obj\Release\FR2.Form1.resources
+C:\Users\akimura\Dropbox\Exercicio 1 refaturado\exercicio1\FR2\obj\Release\FR2.Properties.Resources.resources
+C:\Users\akimura\Dropbox\Exercicio 1 refaturado\exercicio1\FR2\obj\Release\FR2.csproj.GenerateResource.Cache
+C:\Users\akimura\Dropbox\Exercicio 1 refaturado\exercicio1\FR2\obj\Release\FR2.csproj.CoreCompileInputs.cache
+C:\Users\akimura\Dropbox\Exercicio 1 refaturado\exercicio1\FR2\obj\Release\FR2.exe
+C:\Users\akimura\Dropbox\Exercicio 1 refaturado\exercicio1\FR2\obj\Release\FR2.pdb

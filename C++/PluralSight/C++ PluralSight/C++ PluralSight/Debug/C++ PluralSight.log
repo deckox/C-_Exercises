@@ -1,0 +1,5 @@
+﻿  C++ PluralSight.cpp
+c:\users\akimura\dropbox\c++\pluralsight\c++ pluralsight\c++ pluralsight\c++ pluralsight.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\akimura\dropbox\c++\pluralsight\c++ pluralsight\c++ pluralsight\c++ pluralsight.cpp(48): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\akimura\dropbox\c++\pluralsight\c++ pluralsight\c++ pluralsight\c++ pluralsight.cpp(48): warning C4018: '<': signed/unsigned mismatch
+  C++ PluralSight.vcxproj -> C:\Users\akimura\Dropbox\C++\PluralSight\C++ PluralSight\Debug\C++ PluralSight.exe

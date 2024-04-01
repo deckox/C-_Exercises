@@ -1,0 +1,7 @@
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\FR1\bin\Debug\FR1.exe.config
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\FR1\bin\Debug\FR1.exe
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\FR1\bin\Debug\FR1.pdb
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\FR1\obj\Debug\2FR1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\FR1\obj\Debug\FR1.exe
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\FR1\obj\Debug\FR1.pdb
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\FR1\obj\Debug\2FR1.csprojAssemblyReference.cache

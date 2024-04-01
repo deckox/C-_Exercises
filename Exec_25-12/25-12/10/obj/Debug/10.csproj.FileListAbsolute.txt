@@ -1,0 +1,7 @@
+C:\Users\deckox\Dropbox\Exec_25-12\25-12\10\bin\Debug\10.exe.config
+C:\Users\deckox\Dropbox\Exec_25-12\25-12\10\bin\Debug\10.exe
+C:\Users\deckox\Dropbox\Exec_25-12\25-12\10\bin\Debug\10.pdb
+C:\Users\deckox\Dropbox\Exec_25-12\25-12\10\obj\Debug\10.csproj.CoreCompileInputs.cache
+C:\Users\deckox\Dropbox\Exec_25-12\25-12\10\obj\Debug\10.exe
+C:\Users\deckox\Dropbox\Exec_25-12\25-12\10\obj\Debug\10.pdb
+C:\Users\deckox\Dropbox\Exec_25-12\25-12\10\obj\Debug\10.csprojResolveAssemblyReference.cache

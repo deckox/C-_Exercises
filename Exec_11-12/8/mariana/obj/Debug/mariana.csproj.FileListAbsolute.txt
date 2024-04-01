@@ -1,0 +1,7 @@
+C:\Users\akimura\Dropbox\Exec_11-12\8\mariana\bin\Debug\mariana.exe.config
+C:\Users\akimura\Dropbox\Exec_11-12\8\mariana\bin\Debug\mariana.exe
+C:\Users\akimura\Dropbox\Exec_11-12\8\mariana\bin\Debug\mariana.pdb
+C:\Users\akimura\Dropbox\Exec_11-12\8\mariana\obj\Debug\mariana.csprojAssemblyReference.cache
+C:\Users\akimura\Dropbox\Exec_11-12\8\mariana\obj\Debug\mariana.csproj.CoreCompileInputs.cache
+C:\Users\akimura\Dropbox\Exec_11-12\8\mariana\obj\Debug\mariana.exe
+C:\Users\akimura\Dropbox\Exec_11-12\8\mariana\obj\Debug\mariana.pdb

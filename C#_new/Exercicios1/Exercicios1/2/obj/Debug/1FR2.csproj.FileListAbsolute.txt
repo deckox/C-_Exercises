@@ -1,0 +1,6 @@
+C:\Users\akimura\Dropbox\C#_new\Exercicios1\Exercicios1\2\bin\Debug\2.exe.config
+C:\Users\akimura\Dropbox\C#_new\Exercicios1\Exercicios1\2\bin\Debug\2.exe
+C:\Users\akimura\Dropbox\C#_new\Exercicios1\Exercicios1\2\bin\Debug\2.pdb
+C:\Users\akimura\Dropbox\C#_new\Exercicios1\Exercicios1\2\obj\Debug\1FR2.csproj.CoreCompileInputs.cache
+C:\Users\akimura\Dropbox\C#_new\Exercicios1\Exercicios1\2\obj\Debug\2.exe
+C:\Users\akimura\Dropbox\C#_new\Exercicios1\Exercicios1\2\obj\Debug\2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\Usuario\Dropbox\C#_new\Exercicios1\Exercicios1\Fibonacci\obj\Debug\Fibonacci.pdb

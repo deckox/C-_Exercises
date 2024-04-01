@@ -1,0 +1,37 @@
+1) Descreva a utilidade de cada um dos seguintes tipos de projetos do visual studio:
+
+-Console Application = Um Console Application é um programa de computador feito para ser usado através de uma interface de computador somente de texto, como um terminal de texto, recebe entrada e exibe saída em um console de linha de comando com acesso a três fluxos de dados básicos: entrada padrão, saída padrão e erro padrão.
+
+-Class Libary = Conjunto de classes,contém classes que fornecem serviços e objetos que você precisa para escrever suas aplicações, essa base encapsula várias funcionalidades que tornam o trabalho dos desenvolvedores muito mais fácil.
+
+-ASP.NET Web Application = O ASP.NET é uma plataforma da web que fornece todos os serviços que você precisa para criar aplicativos da web baseado em servidor de classe empresarial. ASP.NET é baseado no .NET Framework, para que todos os recursos do .NET Framework estão disponíveis para aplicativos ASP.NET. Os aplicativos podem ser escritos em qualquer linguagem compatível com o common language runtime (CLR), incluindo Visual Basic e c#.
+
+-Test Project = Projeto de teste, para realizar teste com inicio meio e fim e conferir se o mesmo foi executado com sucesso (nunit e etc).
+
+-Windows Service =Windows Services são aplicações que são executadas de forma automática, ou seja, sem a intervenção humana e sem a necessidade de haver um usuário logado no Windows. Essas aplicações não tem interface gráfica e podem ser inicializadas automaticamente quando o Windows é iniciado. Elas são executadas em background onde o usuário nem percebe que as mesmas estão em execução. São ideais para processos de longa duração ou então para processos periódicos.
+
+-Empty Project = um projeto vazio, No entanto, criar um projeto vazio fornece a flexibilidade de nomear inicialmente seus arquivos de origem quando você os adiciona.
+				
+4) Assumindo as seguintes variaveis informe qual o erro em cada uma das seguintes linhas de codigo;
+                var numero1 = 10;
+                var numero2 = 0;
+                int numero3 = 2;
+                var numero4 = "3";
+               
+                - var teste = numero1 + numero3	 (esta faltando o ";")
+                - var teste = numero3 / numero2; (usou o mesmo nome da variavel acima, duplicado e tentar dividir por zero)
+                - var teste = numero2 - numero4; (nao é possivel subtrair numero por string)
+                - numero4 = numero1; (nao pode converter int para string)
+				
+6) Defina os seguintes termos e de exemplos:
+                - loop = conjunto de instruções que um programa de computador percorre e repete um significativo número de vezes até que sejam alcançadas as condições desejadas.
+				
+                - Null = nulo, representa algo sem um valor definido.
+				
+                - dll = LL é uma sigla do mundo da informática e significa Dynamic-link library, ou "Biblioteca de Vínculo Dinâmico" em português. A biblioteca representada pela sigla DLL possui dados e códigos que podem ser usados simultaneamente por mais de um programa.
+				
+                - .Net Framework = O .NET Framework é um ambiente de execução gerenciado que fornece uma variedade de serviços para os aplicativos em execução
+				
+                - Index = indice, Índice, no contexto da estrutura de dados, é uma referência associada a uma chave, que é utilizada para fins de otimização, permitindo uma localização mais rápida de um registro quando efetuada uma consulta
+				
+                - Collection = Um objeto Collection representa um agrupamento genérico de objetos simples. Objetos que implementam esta interface devem manter uma estrutura interna que permita acrescentar objetos à coleção, removê-los e consultar se um objeto é ou não parte da coleção.

@@ -1,0 +1,7 @@
+C:\Users\deckox\Dropbox\Exec-18-12\18-12\9\bin\Debug\9.exe.config
+C:\Users\deckox\Dropbox\Exec-18-12\18-12\9\bin\Debug\9.exe
+C:\Users\deckox\Dropbox\Exec-18-12\18-12\9\bin\Debug\9.pdb
+C:\Users\deckox\Dropbox\Exec-18-12\18-12\9\obj\Debug\9.csprojResolveAssemblyReference.cache
+C:\Users\deckox\Dropbox\Exec-18-12\18-12\9\obj\Debug\9.csproj.CoreCompileInputs.cache
+C:\Users\deckox\Dropbox\Exec-18-12\18-12\9\obj\Debug\9.exe
+C:\Users\deckox\Dropbox\Exec-18-12\18-12\9\obj\Debug\9.pdb

@@ -1,0 +1,10 @@
+C:\Users\Andre\Dropbox\Exercicio 3 refaturado\Exercicio3\2-HoraeData\bin\Debug\2-HoraeData.exe.config
+C:\Users\Andre\Dropbox\Exercicio 3 refaturado\Exercicio3\2-HoraeData\bin\Debug\2-HoraeData.exe
+C:\Users\Andre\Dropbox\Exercicio 3 refaturado\Exercicio3\2-HoraeData\bin\Debug\2-HoraeData.pdb
+C:\Users\Andre\Dropbox\Exercicio 3 refaturado\Exercicio3\2-HoraeData\obj\Debug\2-HoraeData.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Dropbox\Exercicio 3 refaturado\Exercicio3\2-HoraeData\obj\Debug\_2_HoraeData.Form1.resources
+C:\Users\Andre\Dropbox\Exercicio 3 refaturado\Exercicio3\2-HoraeData\obj\Debug\_2_HoraeData.Properties.Resources.resources
+C:\Users\Andre\Dropbox\Exercicio 3 refaturado\Exercicio3\2-HoraeData\obj\Debug\2-HoraeData.csproj.GenerateResource.Cache
+C:\Users\Andre\Dropbox\Exercicio 3 refaturado\Exercicio3\2-HoraeData\obj\Debug\2-HoraeData.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Dropbox\Exercicio 3 refaturado\Exercicio3\2-HoraeData\obj\Debug\2-HoraeData.exe
+C:\Users\Andre\Dropbox\Exercicio 3 refaturado\Exercicio3\2-HoraeData\obj\Debug\2-HoraeData.pdb
